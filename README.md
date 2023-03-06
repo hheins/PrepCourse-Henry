@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba mod 2 prepcourse Henry
+Este pryecto es una prube de como crear un repositorio y clonarlo desde gitup a mi computadora
